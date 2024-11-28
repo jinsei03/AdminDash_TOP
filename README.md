@@ -1,1 +1,2 @@
 # AdminDash_TOP
+A project from the Odin Project, where I attempt to replicate an "Admin Dashboard". This project is supposed to be mostly done with grid to help me learn and apply it. The CSS for this project gets very messy at the end and I seem to have picked up a few tricks. I seem to have struggled with the content section because I was too focused on trying to make it look exactly like the project example. 
